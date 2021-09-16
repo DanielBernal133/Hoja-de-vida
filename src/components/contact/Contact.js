@@ -4,7 +4,7 @@ function Contact() {
     return(
         <div className="contacto">
             <h2>Descripcion personal</h2>
-            <p>Mi nombre es Daniel Bernal Ariza, tengo 19 años, me gusta programar y todo sobre este arte porque para mi es un arte el programar y crear valiosas paginas, tengo buena experiencias programando proyectos en el tecnico y en el tegnologo.</p>
+            <p>Mi nombre es Daniel Bernal Ariza, tengo 19 años, me gusta programar y todo sobre este arte porque para mi es un arte el programar y crear valiosas páginas, tengo buenas experiencias programando proyectos en el técnico y en el tegnólogo.</p>
             <h2>Contacto</h2>
             <div className="info"><i class="fas fa-phone-square-alt"></i>3213638149</div>
             <div className="info"><i class="far fa-envelope"></i>bernalarizad7gmail.com</div>
