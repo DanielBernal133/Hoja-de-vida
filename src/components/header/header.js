@@ -9,7 +9,7 @@ function Header() {
             </div>
             <div className="texto">
                 <h1 className="titulonom">Daniel Bernal Ariza</h1>
-                <h3>Analista y Diseñador de sistemas de información</h3>
+                <h4 className="carerra">Analista y Diseñador de sistemas de información</h4>
             </div>
             
         </header>

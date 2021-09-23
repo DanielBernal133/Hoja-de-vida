@@ -7,7 +7,7 @@ function Home(){
 
 	return(
 	<div className="container">
-    <Link to="/portafolio">Ir al portafolio</Link>       
+    <button className="btn btn-outline-primary"><Link to="/portafolio">Ir al portafolio</Link></button>      
       </div>
 		);
 }

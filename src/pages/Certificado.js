@@ -14,7 +14,7 @@ function Certificado(){
         <h1>Certificado En lectura Critica</h1>
         <img src={foto2} />
         <div className="container">
-    <Link to="/portafolio">Ir al portafolio</Link>       
+        <button className="btn btn-outline-primary"><Link to="/portafolio">Ir al portafolio</Link></button>     
       </div>
     </div>
 		);
