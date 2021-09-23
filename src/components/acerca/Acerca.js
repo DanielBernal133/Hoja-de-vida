@@ -1,4 +1,7 @@
 import './Acerca.css'
+import {
+    Link
+  } from "react-router-dom";
 function Acerca(){
     return(
         <div className="acerca">
@@ -17,6 +20,9 @@ function Acerca(){
                     <h4 className="TituloCar">Tecnólogo en Análisis y Diseño de Sistemas de Información – SENA </h4>
                     <p>En este transcurso de mi tecnólogo llevo un buen conocimiento de varios 
                         lenguajes de programación, me desempeño bien en actividades de este mismo y soy un buen compañero al ayudar.</p>
+                </div>
+                <div className="container">
+                <Link to="/certificado">Certificados</Link>       
                 </div>
                 <h1 className="Titulo2">Habilidades</h1>
                 <div className="habilidades">

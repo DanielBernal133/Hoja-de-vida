@@ -1,0 +1,10 @@
+.certificados {
+    flex-basis: 40%;
+    text-align: center;
+    min-width: 200px;
+}
+
+.certificados img{
+    max-width: 400px;
+}
+    

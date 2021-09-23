@@ -30,3 +30,14 @@ h2{
   flex-direction: row;
 }
 
+.contact{
+  min-width: 100px;
+}
+
+.acerc{
+  min-width: 100px;
+}
+
+.footar{
+  min-width: 100px;
+}
